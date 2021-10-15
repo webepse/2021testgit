@@ -7,3 +7,8 @@
     width: 100%;
     height: 100vh;
 }
+
+.test{
+    margin: 25px;
+    background-color: red;
+}
